@@ -3,6 +3,7 @@
 ## Operating System (CentOS7) Creds:
  - **username:** analyst
  - **password:** password2022
+ - **Example Powershell:** ssh analyst@192.168.98.132
  
 ## SOC(Web) Interface Creds:
  - **URL:** https://IP_of_server
