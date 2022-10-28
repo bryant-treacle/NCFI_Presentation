@@ -17,7 +17,10 @@
  - Reboot the machine.
 
 ## Import Datasets:
- -  To import PCAP files run the following command:
+ - Verify Services are up (Status of OK or Disabled):
+ ```sudo so-status```
+ 
+ - To import PCAP files run the following command:
  ```sudo so-import-pcap <pcap1.pcap pcap2.pcap>```
  
  - To import windows event logs, run the following command:
