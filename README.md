@@ -2,13 +2,13 @@
 
 ## Operating System (CentOS7) Creds:
  - **username:** analyst
- - **password:** password2022
+ - **password:** password
  - **Example Powershell:** ssh analyst@192.168.98.132
  
 ## SOC(Web) Interface Creds:
  - **URL:** https://IP_of_server
  - **username:** analyst@securityonion.com
- - **password:** password2022
+ - **password:** password
  
 ## IP Address Change Instructions:
  - Once the VM is imported, change network adapter(1) to NAT and power-on the VM.
